@@ -1,0 +1,12 @@
+.chart {
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .chart-label{
+        display: flex;
+        align-self: center;
+        font-size: 25px;
+    }
+}

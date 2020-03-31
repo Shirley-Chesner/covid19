@@ -1,0 +1,12 @@
+.input-group {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    .input-label {
+        font-size: 25px;
+    }
+
+    .input {
+        margin: 10px;
+    }
+}
